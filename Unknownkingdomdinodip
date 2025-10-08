@@ -19,7 +19,7 @@
             "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP_C",
             "/PrehistoricBeasts4/Dilong/BPs/Dilong_Character_BP.Dilong_Character_BP_C",
             "/PrehistoricBeastsPartV/Sinornithoides/BPs/Sinornithoides_Character_BP.Sinornithoides_Character_BP_C",
-            "/Game/ASA/Dinos/Elderclaw_Character_BP.Elderclaw_Character_BP_C",
+            "//Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
             "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
             "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
         ],
@@ -412,7 +412,7 @@
                         "chancetodrop": 0.5
                     },
                     {
-                        "dino": "/Gmae/ASA/Dinos/Megaraptor_Character_BP.Megaraptor_Character_BP_C",
+                        "dino": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
                         "chancetodrop": 0.8
                     }
                 ],
