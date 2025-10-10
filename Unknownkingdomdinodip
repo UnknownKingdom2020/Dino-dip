@@ -2,6 +2,8 @@
     "DinoDipConfig": {
         "alwaysallowtaming": [
             "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
+            "/PrehistoricBeasts4/Hyneria/BPs/Hyneria_Character_BP.Hyneria_Character_BP_C",
+            "/PrehistoricBeasts4/Scelidosaurus/BPs/Scelidosaurus_Character_BP.Scelidosaurus_Character_BP_C",
             "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
             "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
             "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
