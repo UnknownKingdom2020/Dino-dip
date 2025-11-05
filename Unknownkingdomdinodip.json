@@ -24,6 +24,7 @@
             "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
             "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
             "/PrehistoricBeasts4/Scelidosaurus/BPs/Scelidosaurus_Character_BP_Eerie.Scelidosaurus_Character_BP_Eerie",
+            "/Game/PrimalEarth/Dinos/Dodo/ZombieDodo_Character_BP.ZombieDodo_Character_BP",
             "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C"
         ],
         "weeksarrays": [
