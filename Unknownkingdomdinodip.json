@@ -495,6 +495,79 @@
                     }
                 ],
                 "dipstogive": 5
+                },
+            {
+                "weekforoptions": [
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+                        "chancetodrop": 0.1
+                    },
+                    {
+                        "dino": "/PrehistoricBeastsPartV/Edmontosaurus/BPs/Edmontosaurus_Character_BP.Edmontosaurus_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+                        "chancetodrop": 0.2
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+                        "chancetodrop": 0.2
+                    },
+                    {
+                        "dino": "/Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP.Deinosuchusasa_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                       "dino": "/Game/Mods/Valguero/Assets/Dinos/RockGolem/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/Mods/Valguero/Assets/Dinos/RockGolem/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+                        "chancetodrop": 0.3
+                    }
+                ],
+                "dipstogive": 5
             }
         ]
     }
